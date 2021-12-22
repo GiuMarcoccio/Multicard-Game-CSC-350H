@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32389586-ca62-40b1-a548-3e0c5bd1fe48": {
+      "ProjectGuid": "32389586-ca62-40b1-a548-3e0c5bd1fe48",
+      "DisplayName": "Project 1 Multigame Card",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

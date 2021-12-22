@@ -1,0 +1,14 @@
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\obj\Debug\netcoreapp3.1\Project 1 Multigame Card.csproj.AssemblyReference.cache
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\obj\Debug\netcoreapp3.1\Project 1 Multigame Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\obj\Debug\netcoreapp3.1\Project 1 Multigame Card.AssemblyInfoInputs.cache
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\obj\Debug\netcoreapp3.1\Project 1 Multigame Card.AssemblyInfo.cs
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\obj\Debug\netcoreapp3.1\Project 1 Multigame Card.csproj.CoreCompileInputs.cache
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\bin\Debug\netcoreapp3.1\Project 1 Multigame Card.exe
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\bin\Debug\netcoreapp3.1\Project 1 Multigame Card.deps.json
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\bin\Debug\netcoreapp3.1\Project 1 Multigame Card.runtimeconfig.json
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\bin\Debug\netcoreapp3.1\Project 1 Multigame Card.runtimeconfig.dev.json
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\bin\Debug\netcoreapp3.1\Project 1 Multigame Card.dll
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\bin\Debug\netcoreapp3.1\Project 1 Multigame Card.pdb
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\obj\Debug\netcoreapp3.1\Project 1 Multigame Card.dll
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\obj\Debug\netcoreapp3.1\Project 1 Multigame Card.pdb
+C:\Users\giuma\Documents\BMCC\C350 H Software Development\Project 1 Multigame Card\Project 1 Multigame Card\obj\Debug\netcoreapp3.1\Project 1 Multigame Card.genruntimeconfig.cache
